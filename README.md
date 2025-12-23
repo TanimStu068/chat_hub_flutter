@@ -1,6 +1,6 @@
 # ChatHub - Real-Time Flutter Chat App
 
-![ChatHub](assets/app_icon.png)  
+![ChatHub](assets/icon/app_icon.png)  
 
 **ChatHub** is a real-time messaging Flutter application that allows users to chat, make voice/video calls, receive notifications, and manage their accounts seamlessly. It supports both **light and dark modes**, providing a smooth and modern user experience.
 
