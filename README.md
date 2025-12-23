@@ -1,16 +1,35 @@
-# chat_hub
+# ChatHub - Real-Time Flutter Chat App
 
-A new Flutter project.
+![ChatHub](assets/app_icon.png)  
 
-## Getting Started
+**ChatHub** is a real-time messaging Flutter application that allows users to chat, make voice/video calls, receive notifications, and manage their accounts seamlessly. It supports both **light and dark modes**, providing a smooth and modern user experience.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Real-Time Chat**: Instant messaging between users.
+- **Voice & Video Calls**: Make real-time voice and video calls.
+- **Push Notifications**: Receive notifications for new messages or calls.
+- **Dark/Light Mode**: Switch between themes based on preference.
+- **Authentication**:
+  - Create account
+  - Forget password
+  - Delete account
+- **Call History**: View past calls with contacts.
+- **Contacts List**: Browse and manage your contacts.
+- **Secure & Responsive**: Fast and reliable real-time communication.
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+### Prerequisites
+- Flutter SDK >= 3.0.0
+- Dart >= 3.0.0
+- Firebase project for Authentication, Firestore, and Notifications
+- Android Studio or VS Code
+
+### Clone the repository
+```bash
+git clone https://github.com/TanimStu068/chat_hub_flutter.git
+cd chat_hub_flutter
