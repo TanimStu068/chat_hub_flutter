@@ -21,6 +21,10 @@
 - **Secure & Responsive**: Fast and reliable real-time communication.
 ---
 
+## screenshots 
+ ![image1](chathubimage2.jpeg)
+ ![image2](chathubimage1.jpeg)
+
 ## Installation
 
 ### Prerequisites
@@ -29,7 +33,4 @@
 - Firebase project for Authentication, Firestore, and Notifications
 - Android Studio or VS Code
 
-### Clone the repository
-```bash
-git clone https://github.com/TanimStu068/chat_hub_flutter.git
-cd chat_hub_flutter
+
