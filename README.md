@@ -25,18 +25,16 @@
  ![image1](chathubimage2.jpeg)
  ![image2](chathubimage1.jpeg)
 
-## Installation
-
 ### Prerequisites
 - Flutter SDK >= 3.0.0
 - Dart >= 3.0.0
 - Firebase project for Authentication, Firestore, and Notifications
 - Android Studio or VS Code
 
-## License
+## 📄 License
 
-This project is currently not licensed for reuse, modification,
-or redistribution. All rights reserved by the project authors.
+Copyright © 2026 Tanim Mahmud. All rights reserved.
 
-Please do not copy, modify, distribute, or use this project
-without permission.
+This repository is publicly available for viewing and portfolio purposes.
+The source code may not be copied, modified, distributed, or reused
+without prior written permission.
