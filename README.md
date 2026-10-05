@@ -33,4 +33,10 @@
 - Firebase project for Authentication, Firestore, and Notifications
 - Android Studio or VS Code
 
+## License
 
+This project is currently not licensed for reuse, modification,
+or redistribution. All rights reserved by the project authors.
+
+Please do not copy, modify, distribute, or use this project
+without permission.
